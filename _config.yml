@@ -1,11 +1,17 @@
 # Site settings
-title: Andrej Karpathy blog
+title: Dmitry's Trefilov blog
 email: 
-description: "Musings of a Computer Scientist."
+description: ""
 baseurl: ""
-url: "http://karpathy.github.io"
-twitter_username: karpathy
-github_username:  karpathy
+url: "http://dmitofclubs.github.io"
+twitter_username: ee_rookkkkkkkk
+github_username:  dmitofclubs
+
+## excerpt
+excerpt_separator: <!--more-->
+
+## license
+license: CC-BY-NC-4.0 # "CC-BY-4.0", "CC-BY-SA-4.0", "CC-BY-NC-4.0", "CC-BY-ND-4.0"
 
 # Build settings
 markdown: kramdown
