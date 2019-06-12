@@ -276,6 +276,16 @@ a:visited { color: #205caa; }
   width: 100%;
   text-align: center;
 }
+
+/* TDN modifications: */
+.post-content > p > a > img {
+    display: block;
+    margin: auto;
+    height: auto;
+    width: auto;
+    max-width: 771px;
+}
+
 /* Syntax highlighting styles */
 /* ----------------------------------------------------------*/
 
