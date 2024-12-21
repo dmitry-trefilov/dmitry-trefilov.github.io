@@ -1,11 +1,11 @@
 # Site settings
-title: Dmitry's Trefilov blog
-email: 
+title: Dmitry Trefilov blog
+email: dmitrytrefilov4work@gmail.com
 description: ""
 baseurl: ""
-url: "http://lopshopedun.github.io"
-twitter_username: lopshopedun
-github_username:  lopshopedun
+url: "http://dmitry-trefilov.github.io"
+twitter_username: 
+github_username: dmitry-trefilov
 
 ## excerpt
 excerpt_separator: <!--more-->
